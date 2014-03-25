@@ -12,4 +12,5 @@
 @property (nonatomic, strong) IBOutlet UILabel *titleLabel;
 @property (nonatomic, strong) IBOutlet UILabel *wordCountLabel;
 @property (nonatomic, strong) IBOutlet UILabel *infoLabel;
+@property (nonatomic, strong) IBOutlet UIButton *returnButton;
 @end

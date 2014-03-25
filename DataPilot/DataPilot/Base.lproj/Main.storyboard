@@ -127,6 +127,7 @@
                     </view>
                     <connections>
                         <outlet property="infoLabel" destination="GzA-qa-7hq" id="4mY-iM-WyU"/>
+                        <outlet property="returnButton" destination="NSM-om-gkX" id="tFJ-MB-Acw"/>
                         <outlet property="titleLabel" destination="3Bl-ND-Wsm" id="rLG-ud-Ave"/>
                         <outlet property="wordCountLabel" destination="s18-Gm-IAf" id="SVH-FR-lXQ"/>
                     </connections>

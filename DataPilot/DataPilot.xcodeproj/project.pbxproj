@@ -49,6 +49,7 @@
 		2825966018E12F3400EF86C2 /* mandelbrot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mandelbrot.png; sourceTree = "<group>"; };
 		2825966318E1307A00EF86C2 /* ZTTCrystalView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZTTCrystalView.h; sourceTree = "<group>"; };
 		2825966418E1307A00EF86C2 /* ZTTCrystalView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZTTCrystalView.m; sourceTree = "<group>"; };
+		2825966718E1364300EF86C2 /* ZTTTestPilotConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZTTTestPilotConstants.h; sourceTree = "<group>"; };
 		28CA902918E11D2000C4CDFA /* DataPilot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DataPilot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28CA902C18E11D2000C4CDFA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		28CA902E18E11D2000C4CDFA /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -141,6 +142,7 @@
 				2825965D18E125E900EF86C2 /* ZTTGraphicViewController.m */,
 				2825966318E1307A00EF86C2 /* ZTTCrystalView.h */,
 				2825966418E1307A00EF86C2 /* ZTTCrystalView.m */,
+				2825966718E1364300EF86C2 /* ZTTTestPilotConstants.h */,
 			);
 			path = DataPilot;
 			sourceTree = "<group>";
